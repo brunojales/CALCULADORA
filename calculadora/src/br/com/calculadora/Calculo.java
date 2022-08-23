@@ -1,6 +1,7 @@
 package br.com.calculadora;
 
 public class Calculo {
+	/**TESTANDO A CONFIG DO TOKEN DO GIT**/
 	
 	public double x;
 	public double y;
